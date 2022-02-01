@@ -1,0 +1,17 @@
+.tabela-moda-descritivo {
+    background-color: #BB86FC;
+}
+
+.tabela-casa-descritivo  {
+    background-color: #00C4B4;
+}
+
+.tabela-moda-produto, 
+.tabela-casa-produto{
+    background-color: #424250;
+    color: #FFFFFF;
+}
+
+th, td {
+    padding: 5px;
+}

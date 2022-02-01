@@ -1,0 +1,13 @@
+p {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-estilo-padrao {
+    background-color: #F5F5F5;
+}
+
+.paragrafo-estilo-destacado{
+    background-color: #F0CCE2;
+    font-weight: bold;
+}
