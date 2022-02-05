@@ -1,17 +1,33 @@
-.tabela-moda-descritivo {
-    background-color: #BB86FC;
+.tabela-vestuario {
+    width: 20%;
+    margin: 10px;
 }
 
-.tabela-casa-descritivo  {
-    background-color: #00C4B4;
+.tabela-vestuario th {
+    padding: 10px;
+    background-color: #BB66FC;
+    color:  white;
 }
 
-.tabela-moda-produto, 
-.tabela-casa-produto{
+.tabela-vestuario td {
+    padding: 10px;
     background-color: #424250;
-    color: #FFFFFF;
+    color: white;
 }
 
-th, td {
-    padding: 5px;
+.tabela-casa {
+    width: 20%;
+    margin: 10px;
+}
+
+.tabela-casa th {
+    padding: 10px;
+    background-color: #00C4B4;
+    color: white;
+}
+
+.tabela-casa td {
+    padding: 10px;
+    background-color: #424250;
+    color: white;
 }
